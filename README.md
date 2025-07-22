@@ -18,6 +18,7 @@ Proponer recomendaciones prácticas para mitigar el churn.
 🛠️ Herramientas Utilizadas
 
 Python: Pandas, Matplotlib, Seaborn
+
 Google Colaboratory
 
 💡 Principales hallazgos
