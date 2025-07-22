@@ -1,17 +1,22 @@
 # Análisis de Evasión de Clientes Telecom X
 
 📌 Descripción
+
 Telecom X es una empresa de telecomunicaciones que está enfrentando un alto índice de evasión de clientes (churn). Aún no se han identificado las causas principales detrás de esta evasión, por lo que este proyecto busca analizar los datos disponibles y brindar información clave para ayudar a resolver este problema.
 
 🧠 Objetivos
+
 Realizar un análisis exploratorio de los datos.
 Identificar variables clave relacionadas con la evasión de clientes.
 Visualizar tendencias y segmentos de mayor riesgo.
 Proponer recomendaciones prácticas para mitigar el churn.
+
 📁 Estructura del Repositorio
+
 ⚠️ Nota: La estructura actual del repositorio aún está en desarrollo. Pueden agregarse nuevos archivos y carpetas conforme avance el análisis.
 
 🛠️ Herramientas Utilizadas
+
 Python: Pandas, Matplotlib, Seaborn
 Google Colaboratory
 
@@ -36,6 +41,7 @@ Perfil Demográfico
 Los adultos mayores, así como los clientes solteros o sin dependientes, muestran una mayor probabilidad de abandonar el servicio.
 
 🚀 Cómo ejecutar el código
+
 Clona este repositorio.
 
 Asegúrate de tener instaladas las bibliotecas mencionadas.
@@ -43,7 +49,9 @@ Asegúrate de tener instaladas las bibliotecas mencionadas.
 Ejecuta las celdas secuencialmente para replicar el análisis.
 
 📂 Dataset
+
 El dataset utilizado para este análisis se carga directamente desde una URL de GitHub en formato JSON. Contiene información sobre clientes de Telecom X, incluyendo datos demográficos, servicios contratados, información de cuenta y si el cliente ha abandonado el servicio (Churn).
 
 ✉️ Autora
+
 Verónica González Ross
